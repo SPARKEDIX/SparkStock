@@ -1,0 +1,10 @@
+streamlit
+yfinance
+ta
+python-dotenv
+openai
+pinecone
+plotly
+os
+datetime
+uuid
