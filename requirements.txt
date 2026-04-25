@@ -5,6 +5,3 @@ python-dotenv
 openai
 pinecone
 plotly
-os
-datetime
-uuid
